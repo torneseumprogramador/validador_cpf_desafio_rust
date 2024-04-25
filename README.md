@@ -4,8 +4,8 @@
 Todas as aulas:
 - https://www.torneseumprogramador.com.br/cursos/desafio_rust/aulas
 
-Como utilizar ?
-No arquivo ( Cargo.toml )
+Como utilizar ? <br>
+No arquivo ( Cargo.toml ) <br>
 Adicionar o codigo abaixo
 
 ```
