@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Danilo <danilo@torneseumprogramador.com.br>"]
 description = "Componente para validação de CPF criada no treinamento desafio de rust do torneseumprogramador"
 repository = "https://github.com/torneseumprogramador/validador_cpf_desafio_rust"
+documentation = "https://github.com/torneseumprogramador/validador_cpf_desafio_rust/blob/main/README.md"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
