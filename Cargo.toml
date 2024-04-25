@@ -1,6 +1,6 @@
 [package]
 name = "validador_cpf"
-version = "1.0.2"
+version = "1.0.3"
 edition = "2021"
 authors = ["Danilo <danilo@torneseumprogramador.com.br>"]
 description = "Componente para validação de CPF criada no treinamento desafio de rust do torneseumprogramador"

@@ -10,12 +10,13 @@ Adicionar o codigo abaixo
 
 ```
 [dependencies]
-validar_cpf = "1.0.2"
+validar_cpf = "1.0.3"
 ```
 
 Como utilizar em seu código Rust
 ```rust
-use validar_cpf as validador;
+extern crate validador_cpf; 
+use validador_cpf as validador;
 use std::io;
 
 fn main() {
@@ -32,7 +33,7 @@ fn main() {
         }
     }
 
-    let validado: bool = validador::validar_cpf::cpf(cpf.as_str());
+    let validado: bool = validador::validar_cpf(cpf.as_str());
 
     if validado {
         println!("O CPF é valido")
