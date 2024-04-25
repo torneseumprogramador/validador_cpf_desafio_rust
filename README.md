@@ -15,7 +15,7 @@ validar_cpf = "1.0.0"
 
 Como utilizar em seu código Rust
 ```rust
-use validar_cpf as validador
+use validar_cpf as validador;
 use std::io;
 
 fn main() {
