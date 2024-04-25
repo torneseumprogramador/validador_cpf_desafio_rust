@@ -1,4 +1,4 @@
-pub fn validar_cpf(cpf: String) -> bool {
+pub fn validar_cpf(cpf: &str) -> bool {
     let cpf: Vec<u8> = cpf
         .chars()
         .filter(|c| c.is_digit(10))
