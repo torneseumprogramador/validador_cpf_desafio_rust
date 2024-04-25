@@ -10,7 +10,7 @@ Adicionar o codigo abaixo
 
 ```
 [dependencies]
-validar_cpf = "1.0.0"
+validar_cpf = "1.0.2"
 ```
 
 Como utilizar em seu código Rust
